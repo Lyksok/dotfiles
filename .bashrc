@@ -23,6 +23,7 @@ alias gicl='git clone'
 alias pbcopy='xsel --input --clipboard'
 alias pbpaste='xsel --output --clipboard'
 
+alias vim='nvim'
 alias archboxconn='ssh -p 17009 lykso@82.65.142.71'
 
 alias l='ls -al'
