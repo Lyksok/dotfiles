@@ -23,8 +23,6 @@ alias gicl='git clone'
 alias pbcopy='xsel --input --clipboard'
 alias pbpaste='xsel --output --clipboard'
 
-alias ateliercontenu='cd /run/media/lykso/04E4-9A52/Prologin/contenus'
-alias resetkb='setxkbmap us -variant altgr-intl -option caps:swapescape'
 alias archboxconn='ssh -p 17009 lykso@82.65.142.71'
 
 alias l='ls -al'
